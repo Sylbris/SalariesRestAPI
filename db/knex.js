@@ -1,9 +1,9 @@
-import knex from "knex";
+const knex = require("knex");
 
 const connectedKnex = knex({
     client: "sqlite3", 
     connection:  {
-        filename: "blalal.sqlite3"
+        filename: "slrs.sqlite3"
     }
 });
 
