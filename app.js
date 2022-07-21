@@ -11,8 +11,7 @@ app.use(bodyParser.json());
 
 // Routes 
 app.get('/compensation_data', async (req, res) => {
-  const response = await db.matchQuery(req.query)
-  //proccessData(req)
+  const response = await db.matchQuery(req.query);
   res.status(200).json({response});
 })
 

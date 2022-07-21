@@ -16,3 +16,12 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 
 * Don't worry about any web application concerns other than serializing JSON and returning via a GET request.
 * The example above (`/compensation_data`...) is not a contract. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience
+
+### Solution
+
+I have created a small sqlite3 database in order to test the different methods.
+
+### Coding standards
+
+https://www.w3schools.com/js/js_conventions.asp
+
