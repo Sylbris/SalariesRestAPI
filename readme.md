@@ -21,6 +21,12 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 
 I have created a small sqlite3 database in order to test the different methods.
 
+I chose Expressjs and Nodejs to implement the backend,
+since express makes it simple to create rest api's.
+
+I chose sqlite3 since its very light and easy to work with relational db.
+
+
 ### Coding standards
 
 https://www.w3schools.com/js/js_conventions.asp
