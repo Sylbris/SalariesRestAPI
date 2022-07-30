@@ -26,6 +26,11 @@ since express makes it simple to create rest api's.
 
 I chose sqlite3 since its very light and easy to work with relational db.
 
+### What I learned
+
+- Trying out sqlite for the first time, and how a react app interacts with it (Creating an instance, Queries etc..)
+
+- Creating a Rest API with Express.
 
 ### Coding standards
 
